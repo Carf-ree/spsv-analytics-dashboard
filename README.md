@@ -23,7 +23,8 @@ The Power BI dashboard presents:
 ## Repository Structure
 - `data/` – raw, cleaned, and feature-level datasets
 - `notebooks/` – Python notebooks
-- `powerbi/` – dashboard link
+- `powerbi/` – dashboard link - https://app.powerbi.com/reportEmbed?reportId=06e8d7c3-f374-4147-9140-7d965eaeff90&autoAuth=true&ctid=47855545-00bb-4800-a65f-e79104ec0fc4<img width="451" height="67" alt="image" src="https://github.com/user-attachments/assets/a7b30194-4304-4b15-bfb5-a76733949e3b" />
+
 - `reports/` – Project summary and all associated reports
 
 ## To Note
